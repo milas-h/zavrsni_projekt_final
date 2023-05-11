@@ -1,0 +1,768 @@
+{
+  "donacije": [
+    {
+      "tip": "Igracke",
+      "vrijednost": "10",
+      "opis": "Loptica za pse",
+      "kategorija": "donirano",
+      "id": 1
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "50",
+      "opis": "Hrana za macke - tunjevina",
+      "kategorija": "donirano",
+      "id": 2
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "20",
+      "opis": "Set teniskih loptica",
+      "kategorija": "donirano",
+      "id": 3
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "200",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 4
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "25",
+      "opis": "Krevet za malog psa",
+      "kategorija": "donirano",
+      "id": 5
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "15",
+      "opis": "Klupko za macke",
+      "kategorija": "donirano",
+      "id": 6
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "75",
+      "opis": "Suha hrana za pse",
+      "kategorija": "trazi",
+      "id": 7
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "50",
+      "opis": "Grebalica za macke",
+      "kategorija": "donirano",
+      "id": 8
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "50",
+      "opis": "Penjalica za macke",
+      "kategorija": "donirano",
+      "id": 9
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "500",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 10
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 11
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "20",
+      "opis": "Povodac za psa - 6 m",
+      "kategorija": "trazi",
+      "id": 12
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "55",
+      "opis": "Hrana za pse - proteinski keksi",
+      "kategorija": "donirano",
+      "id": 13
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 14
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 15
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "nudi",
+      "id": 16
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "100",
+      "opis": "Suha hrana za pse",
+      "kategorija": "nudi",
+      "id": 17
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "15",
+      "opis": "Sampon za pse",
+      "kategorija": "donirano",
+      "id": 18
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "65",
+      "opis": " Ampule protiv nametnika za macke",
+      "kategorija": "donirano",
+      "id": 19
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "55",
+      "opis": " Ampule protiv nametnika za macke ",
+      "kategorija": "trazi",
+      "id": 20
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "40",
+      "opis": "Hrana za macke (govedina)",
+      "kategorija": "donirano",
+      "id": 21
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "150",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 22
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 23
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "45",
+      "opis": "Krevet za velikog psa",
+      "kategorija": "donirano",
+      "id": 24
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "110",
+      "opis": "Hrana za macke - tunjevina",
+      "kategorija": "donirano",
+      "id": 25
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 26
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "30",
+      "opis": "Krevetic za macke",
+      "kategorija": "donirano",
+      "id": 27
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "200",
+      "opis": "Donacija u novcu",
+      "kategorija": "nudi",
+      "id": 28
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "20",
+      "opis": "Brnjica",
+      "kategorija": "trazi",
+      "id": 29
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "100",
+      "opis": "Suha hrana za pse",
+      "kategorija": "trazi",
+      "id": 30
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "trazi",
+      "id": 31
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "100",
+      "opis": "4 x povodac za pse - 8 m",
+      "kategorija": "nudi",
+      "id": 32
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "trazi",
+      "id": 33
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "200",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 34
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "100",
+      "opis": "Mijesano meso za pse",
+      "kategorija": "donirano",
+      "id": 35
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "100",
+      "opis": "Konzerve za pse",
+      "kategorija": "nudi",
+      "id": 36
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "40",
+      "opis": "Grebalica za macke",
+      "kategorija": "donirano",
+      "id": 37
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "nudi",
+      "id": 38
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "30",
+      "opis": "Krevetic za malog psa",
+      "kategorija": "trazi",
+      "id": 39
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "500",
+      "opis": "Donacija u novcu",
+      "kategorija": "trazi",
+      "id": 40
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "nudi",
+      "id": 41
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "125",
+      "opis": "Suha hrana za pse",
+      "kategorija": "trazi",
+      "id": 42
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "15",
+      "opis": "Sampon za macke",
+      "kategorija": "donirano",
+      "id": 43
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "100",
+      "opis": "Penjalica za macke",
+      "kategorija": "donirano",
+      "id": 44
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "100",
+      "opis": "Konzerve za macke",
+      "kategorija": "donirano",
+      "id": 45
+    },
+    {
+      "tip": "Novac",
+      "vrijednost": "250",
+      "opis": "Donacija u novcu",
+      "kategorija": "donirano",
+      "id": 46
+    },
+    {
+      "tip": "Igracke",
+      "vrijednost": "100",
+      "opis": "Donacija u novcu",
+      "kategorija": "nudi",
+      "id": 47
+    },
+    {
+      "tip": "Ostalo",
+      "vrijednost": "30",
+      "opis": "Krevetic za macke",
+      "kategorija": "nudi",
+      "id": 48
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "100",
+      "opis": "Tunjevina za macke",
+      "kategorija": "donirano",
+      "id": 49
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "100",
+      "opis": "Tunjevina za macke",
+      "kategorija": "trazi",
+      "id": 50
+    }
+  ],
+  "zivotinje": [
+    {
+      "ime": "Bella",
+      "vrsta": "Pas",
+      "godine": "3",
+      "opis": "Brazilski terijer",
+      "pregled": "2023-02-26",
+      "cip": true,
+      "udomljen": true,
+      "id": 1
+    },
+    {
+      "ime": "Nala",
+      "vrsta": "Macka",
+      "godine": "3",
+      "opis": "Američka kratkodlaka mačka",
+      "pregled": "2023-4-1",
+      "cip": true,
+      "udomljen": true,
+      "id": 2
+    },
+    {
+      "ime": "Charlie",
+      "vrsta": "Pas",
+      "godine": "1",
+      "opis": "Američki stafordski terijer",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 3
+    },
+    {
+      "ime": "Luna",
+      "vrsta": "Pas",
+      "godine": "2",
+      "opis": "Američki lisičar",
+      "pregled": "2023-04-02",
+      "cip": true,
+      "udomljen": true,
+      "id": 4
+    },
+    {
+      "ime": "Leo",
+      "vrsta": "Macka",
+      "godine": "1",
+      "opis": "Bengalska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": false,
+      "id": 5
+    },
+    {
+      "ime": "Oliver",
+      "vrsta": "Macka",
+      "godine": "2",
+      "opis": "Bombajska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 6
+    },
+    {
+      "ime": "Lucy",
+      "vrsta": "Pas",
+      "godine": "12",
+      "opis": "Jack Russell terijer",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 7
+    },
+    {
+      "ime": "Simba",
+      "vrsta": "Macka",
+      "godine": "2",
+      "opis": "Siva sijamska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 8
+    },
+    {
+      "ime": "Max",
+      "vrsta": "Pas",
+      "godine": "12",
+      "opis": "Belgijski ovčar",
+      "pregled": "2023-04-17",
+      "cip": true,
+      "udomljen": true,
+      "id": 9
+    },
+    {
+      "ime": "Bailey",
+      "vrsta": "Pas",
+      "godine": "12",
+      "opis": "Bulmastif",
+      "pregled": "2023-01-12",
+      "cip": true,
+      "udomljen": true,
+      "id": 10
+    },
+    {
+      "ime": "Milo",
+      "vrsta": "Macka",
+      "godine": "4",
+      "opis": "Mekong bobtail",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": false,
+      "id": 11
+    },
+    {
+      "ime": "Tito",
+      "vrsta": "Macka",
+      "godine": "2",
+      "opis": "Javanska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 12
+    },
+    {
+      "ime": "Cooper",
+      "vrsta": "Pas",
+      "godine": "3",
+      "opis": "Bigl",
+      "pregled": "2023-01-28",
+      "cip": true,
+      "udomljen": true,
+      "id": 13
+    },
+    {
+      "ime": "Kiwi",
+      "vrsta": "Macka",
+      "godine": "5",
+      "opis": "Njemačka dugodlaka macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 14
+    },
+    {
+      "ime": "Daisy",
+      "vrsta": "Pas",
+      "godine": "12",
+      "opis": "Francuski bijelo-narančasti gonič",
+      "pregled": "2023-02-10",
+      "cip": true,
+      "udomljen": false,
+      "id": 15
+    },
+    {
+      "ime": "Buddy",
+      "vrsta": "Pas",
+      "godine": "2",
+      "opis": "Engleski lisičar",
+      "pregled": "2023-03-22",
+      "cip": true,
+      "udomljen": true,
+      "id": 16
+    },
+    {
+      "ime": "Java",
+      "vrsta": "Macka",
+      "godine": "3",
+      "opis": "Siva sijamska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 17
+    },
+    {
+      "ime": "Buffy",
+      "vrsta": "Macka",
+      "godine": "4",
+      "opis": "Javanska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": false,
+      "id": 18
+    },
+    {
+      "ime": "Lola",
+      "vrsta": "Pas",
+      "godine": "1",
+      "opis": "Australski ovčar",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 19
+    },
+    {
+      "ime": "Mufasa",
+      "vrsta": "Macka",
+      "godine": "3",
+      "opis": "Bombajska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 20
+    },
+    {
+      "ime": "Stella",
+      "vrsta": "Pas",
+      "godine": "3",
+      "opis": "Bokser",
+      "pregled": "2023-04-19",
+      "cip": true,
+      "udomljen": false,
+      "id": 21
+    },
+    {
+      "ime": "Maggie",
+      "vrsta": "Pas",
+      "godine": "2",
+      "opis": "Američki lisičar",
+      "pregled": "2023-01-22",
+      "cip": true,
+      "udomljen": false,
+      "id": 22
+    },
+    {
+      "ime": "Garfield",
+      "vrsta": "Macka",
+      "godine": "4",
+      "opis": "Američka kratkodlaka macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": false,
+      "id": 23
+    },
+    {
+      "ime": "Aslan",
+      "vrsta": "Macka",
+      "godine": "3",
+      "opis": "Egipatska mau",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 24
+    },
+    {
+      "ime": "Loki",
+      "vrsta": "Pas",
+      "godine": "1",
+      "opis": "Brazilski terijer",
+      "pregled": "2023-02-15",
+      "cip": true,
+      "udomljen": true,
+      "id": 25
+    },
+    {
+      "ime": "Elsa",
+      "vrsta": "Macka",
+      "godine": "4",
+      "opis": "Egipatska mau",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": false,
+      "id": 26
+    },
+    {
+      "ime": "Olly",
+      "vrsta": "Pas",
+      "godine": "1",
+      "opis": "Jack Russell terijer",
+      "pregled": "2023-01-31",
+      "cip": true,
+      "udomljen": true,
+      "id": 27
+    },
+    {
+      "ime": "Pepper",
+      "vrsta": "Pas",
+      "godine": "2",
+      "opis": "Akita",
+      "pregled": "2023-02-14",
+      "cip": true,
+      "udomljen": true,
+      "id": 28
+    },
+    {
+      "ime": "Regina",
+      "vrsta": "Macka",
+      "godine": "3",
+      "opis": "Bengalska macka",
+      "pregled": "2023-02-01",
+      "cip": true,
+      "udomljen": true,
+      "id": 29
+    },
+    {
+      "ime": "Sylvester",
+      "vrsta": "Macka",
+      "godine": "4",
+      "opis": "Birmanska macka",
+      "pregled": "2023-02-01",
+      "cip": false,
+      "udomljen": false,
+      "id": 30
+    },
+    {
+      "ime": "Bruno",
+      "vrsta": "Pas",
+      "godine": "2",
+      "opis": "Belgijski ovčar",
+      "pregled": "2023-02-09",
+      "cip": false,
+      "udomljen": true,
+      "id": 31
+    },
+    {
+      "ime": "Yoda",
+      "vrsta": "Macka",
+      "godine": "4",
+      "opis": "Britanska kratkodlaka macka",
+      "pregled": "2023-02-01",
+      "cip": false,
+      "udomljen": false,
+      "id": 32
+    },
+    {
+      "ime": "Bo",
+      "vrsta": "Pas",
+      "godine": "1",
+      "opis": "Američki stafordski terijer",
+      "pregled": "2023-03-01",
+      "cip": false,
+      "udomljen": true,
+      "id": 33
+    },
+    {
+      "ime": "Rex",
+      "vrsta": "Pas",
+      "godine": "3",
+      "opis": "Australski ovčar",
+      "pregled": "2023-03-01",
+      "cip": false,
+      "udomljen": true,
+      "id": 34
+    },
+    {
+      "ime": "Mars",
+      "vrsta": "Macka",
+      "godine": "3",
+      "opis": "Britanska kratkodlaka macka",
+      "pregled": "2023-02-01",
+      "cip": false,
+      "udomljen": false,
+      "id": 35
+    },
+    {
+      "ime": "Ajax",
+      "vrsta": "Macka",
+      "godine": "2",
+      "opis": "Američki kurl",
+      "pregled": "2023-02-01",
+      "cip": false,
+      "udomljen": false,
+      "id": 36
+    }
+  ],
+  "obavijesti": [
+    {
+      "id": 1,
+      "naslov": "Akcija Mali izlet za veliko veselje",
+      "tekst": "Psi iz azila ADC pozivaju vas na mali izlet za veliko veselje! Svaki dan (!) imate priliku razveseliti jednog od naših najboljih prijatelja i odvesti ga na izlet. I tu se zapravo ne radi samo o izletu i danu prepunom igre i trčanja, nego će cijelo to iskustvo imati ogromnu važnost u procesu sretnog udomljavanja napuštenog psa. Pse na izlet možete povesti baš svaki dan. Dođite do nas oko 9 ujutro i vratite ga do 13 sati. Naravno, ukoliko vas ne osvoji i ne pridobije da ga udomite! Ali i ovo je važna stvar za psa: socijalizacija je jako važna za svaku životinju, a tko zna, možda se s vremenom i vi toliko povežete sa svojim najboljim prijateljem da vam udomljavanje postane sljedeći logičan korak!",
+      "vazno": false
+    },
+    {
+      "id": 2,
+      "naslov": "Međunarodni dan zaštite životinja",
+      "tekst": "Listopad je mjesec u kojem se obilježava Međunarodni dan zaštite životinja, a jedna od glavnih karakteristika obilježavanja tog dana je ukazivanje na odnos ljudi i kućnih ljubimaca te prikaz njihovog zajedničkog života. Međutim, kao i svake godine, i ovaj put vas podsjećamo da među nama postoje oni koji su lišeni luksuza života s čovjekom. Zato ne zaboravite da svaki dan od 9 do 13 h možete doći i u šetnju izvesti psa kojeg taj dan želite učiniti najsretnijim bićem na svijetu. Pružite im sebe na par sati, a oni će vam zauzvrat dati sve što imaju: svoju ljubav i sebe samoga!",
+      "vazno": false
+    },
+    {
+      "id": 3,
+      "naslov": "Što je kastracija i zašto je važna?",
+      "tekst": "kastracija je fizičko uklanjanje reproduktivnih organa: jajnika, jajovoda i maternice kod ženki, a testisa kod mužjaka. Mnogi vlasnici životinja protivnici su kastracije, uglavnom jer ju smatraju neprirodnom, odnosno, vjeruju da ona ograničava spolnost životinja i lišava ih njihovih prirodnih nagona. Istina je da kastracija ograničava spolni nagon pasa, međutim, ona donosi i brojne zdravstvene prednosti, pozitivne promjene u ponašanju životinja, ali i rješava najveći problem: nekontroliranu reprodukciju, čija je pak posljedica velik broj napuštenih životinja. Najveća prednost kastracije upravo je dobrobit životinja te odgovornost prema društvu u cjelini. Kada govorimo o kastraciji, podrazumijevamo životinje koje nisu u registriranom uzgoju, odnosno one koji žive isključivo kao kućni ljubimci. Kroz naše sklonište godišnje prođe stotinjak napuštenih životinja. Ako ubrojimo i one koji ni ne stignu do nas nego stradaju na cesti, budu otrovani, upucani, uginu od bolesti, gladi ili stradaju od divljih životinja, brojka napuštenih je puno veća. Kada govorimo o brojkama, kada ne bi bilo kastracije, samo jedna ženka psa godišnje može dobiti i do 16 potomaka. Već sljedeće godine i ti potomci (a i ta ženka) mogu ukupno dobiti 128 štenaca, a za samo sedam godina brojka je veća od 67.000! Čak i kada bismo živjeli u idealnom društvu u kojem se svaka napuštena životinja udomi, broj napuštenih životinja ubrzo bi bio višestruko veći od broja ljudi koji bi ih mogli udomiti. S obzirom da se kastracijom ne mijenja karakter životinje te da je operativni zahvat rutinski i izvodi se u općoj anesteziji, jasno je svima da je kastracija napuštenih životinja jedino razumno i – da! – humano rješenje za sve napuštene životinje. Ma koliko nam se na prvu činilo da se radi o mesarstvu, to jednostavno nije istina. Volite svoje najbolje prijatelje i pružite im ono što je uistinu najbolje za njih!",
+      "vazno": false
+    },
+    {
+      "id": 4,
+      "naslov": "Prošiteni kapaciteti našeg azila",
+      "tekst": "Nažalost, s obzirom na sve veći broj napuštenih životinja, bili smo prisiljeni povećati kapacitet našeg ADC azila, te smo prije dva mjeseca krenuli u izgradnju novog objekta. On se nadovezuje na već postojeći prostor gdje se psi drže skupno te sada imaju unutarnji grijani prostor i mogućnost izlaska na terasu, koja je ujedno i natkrivena. Ovo nužno prošitenje omogućili ste i vi svojim donacijama, na kojima vam od srca još jednom zahvaljujemo!",
+      "vazno": true
+    },
+    {
+      "id": 5,
+      "naslov": "Rekordan broj udomljenja u našem azilu",
+      "tekst": "Iznimno nam je drago što vas možemo obavijestiti da je 2022. godina za nas i naše najbolje prijatelje bila najsretnija moguća. Naime, udomljeno je 97 životinja, što je najveći broj do sada. Nemamo drugih riječi osim ogromno HVALA svim našim volonterima i svima vama koji ste na bilo koji način pomogli rad našeg azila. Nadamo se da će i ostale životinje pronaći put do svog udomitelja i toplog doma, jer, koliko god se naši volonteri brinuli o njima, svaki pas i svaka maca sanja dan kad će imati nekoga da se igra i brine samo o njemu. Pružimo im to u - nadamo se - rekordnoj 2023.!",
+      "vazno": true
+    },
+    {
+      "id": 6,
+      "naslov": "Pružite privremeni smještaj",
+      "tekst": "Često nam se javljate s upitom o privremenom smještaju za nekog od naših najboljih prijatelja. I pritom ste jako skromni jer mislite da radite jako malo, a zapravo niste ni svjesni da ste pravi heroji, jer spašavate živote najrizičnijim skupinama životinja: necijepljenim štencima i mačićima ili starijim životinjama kojima su uvjeti u azilu naprosto opasni po život. Ako želite postati privremeni udomitelji, u tome ćete uvijek imati našu podršku i pomoć u obliku hrane, veterinarskih troškova i ostalih potrepština. Vi svom najboljem prijatelju pružite topao kutak, a mi ćemo se za to vrijeme tražiti njihov stalni novi dom.",
+      "vazno": false
+    }
+  ],
+  "korisnici": [
+    {
+      "id": 1,
+      "ime": "korisnik",
+      "lozinka": "korisnik123",
+      "uloga": "korisnik"
+    },
+    {
+      "id": 2,
+      "ime": "admin",
+      "lozinka": "admin123",
+      "uloga": "admin"
+    }
+  ]
+}
